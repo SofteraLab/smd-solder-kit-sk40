@@ -31,6 +31,10 @@
 
 ![Як працює набір](docs/assets/images/how-it-works.jpg)
 
+## Відео роботи зібраного набору
+
+[YouTube Short: SMD soldering kit by Softera Lab](https://www.youtube.com/shorts/_bBBfhrwp9k)
+
 ## Характеристики
 
 Та сама таблиця повторюється в [огляді плати](docs/01-hardware-overview.md).
@@ -74,10 +78,6 @@
 8. Підключи USB і перевір LED.
 
 ![Порядок збірки](docs/assets/images/assembly-order.jpg)
-
-## Відео роботи зібраного девайсу
-
-[YouTube Short: SMD soldering kit by Softera Lab](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
 ## Посилання
 
