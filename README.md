@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.softeralab.com/">
-    <img src="docs/assets/images/logo.png" alt="Softera Lab" width="96">
+    <img src="docs/assets/images/en/logo.png" alt="Softera Lab" width="96">
   </a>
 </p>
 
@@ -11,14 +11,14 @@
 <p align="center">
   <a href="README.uk.md"><img alt="UA" src="https://img.shields.io/badge/UA-README.uk.md-F97316?style=flat-square"></a>
   <a href="https://www.softeralab.com/"><img alt="Website" src="https://img.shields.io/badge/softeralab.com-09090B?style=flat-square&labelColor=18181B"></a>
-  <a href="https://www.softeralab.com/course-basic-soldering/"><img alt="Soldering course" src="https://img.shields.io/badge/Soldering%20course-09090B?style=flat-square&labelColor=18181B"></a>
+  <a href="https://www.instagram.com/softeralab/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-09090B?style=flat-square&labelColor=18181B"></a>
+  <a href="https://www.youtube.com/@SofteraLab"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-09090B?style=flat-square&labelColor=18181B"></a>
   <img alt="USB Type-C 5V" src="https://img.shields.io/badge/USB--C-5V-09090B?style=flat-square&labelColor=F97316">
-  <img alt="0603 0805 1206" src="https://img.shields.io/badge/0603%20·%200805%20·%201206-09090B?style=flat-square&labelColor=18181B">
 </p>
 
 <p align="center"><strong>Languages:</strong> English (this page) · <a href="README.uk.md">Українська</a></p>
 
-![SMD Solder Kit](docs/assets/images/banner.jpg)
+![SMD Solder Kit](docs/assets/images/en/banner.png)
 
 Softera Lab kit for practicing SMD soldering. This repository is a **product page and assembly guide** for people who want to buy the kit or join the [soldering course](https://www.softeralab.com/course-basic-soldering/).
 
@@ -28,7 +28,9 @@ This is **not an open-source hardware project**. Schematics source, Gerbers, and
 
 ## How it works
 
-Ready to work KIT: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
+[![SMD Solder Kit SK-40 demo](docs/assets/images/en/banner.png)](https://www.youtube.com/shorts/_bBBfhrwp9k)
+
+Demo: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
 ## About the kit
 
@@ -40,7 +42,7 @@ The other side of the board is a package reference: Metric/Inch sizes, SOT footp
 
 Step-by-step assembly lives in [`docs/`](docs/) (Ukrainian guide for the course).
 
-![How the kit works](docs/assets/images/how-it-works.jpg)
+![How the kit works](docs/assets/images/en/how-it-works.png)
 
 ## Specifications
 
@@ -55,11 +57,11 @@ Step-by-step assembly lives in [`docs/`](docs/) (Ukrainian guide for the course)
 | Reference side | Metric/Inch table, SOT-23 / SOT-25 / SOT-26 / SOT-89, Speed section |
 | Check | Connect USB and watch the LEDs |
 
-![Board overview](docs/assets/images/board-overview.jpg)
+![Board overview](docs/assets/images/en/board-overview.png)
 
 ## What's in the box
 
-![Kit contents](docs/assets/images/kit-contents.jpg)
+![Kit contents](docs/assets/images/en/kit-contents.png)
 
 1. SMD Solder Kit board
 2. Resistors 0603, 0805, 1206
@@ -82,7 +84,7 @@ Full order and tools: [getting started](docs/02-getting-started.md).
 7. U2 and U3 — 4017, SOIC-16
 8. Connect USB and check LEDs
 
-![Assembly order](docs/assets/images/assembly-order.jpg)
+![Assembly order](docs/assets/images/en/assembly-order.png)
 
 ## Links
 
@@ -94,9 +96,11 @@ Full order and tools: [getting started](docs/02-getting-started.md).
 | Soldering technique | [docs/03-soldering.md](docs/03-soldering.md) |
 | Troubleshooting | [docs/04-troubleshooting.md](docs/04-troubleshooting.md) |
 | Buy / course | [Soldering course](https://www.softeralab.com/course-basic-soldering/) |
+| Website | [softeralab.com](https://www.softeralab.com/) |
 | Contact | [Contacts](https://www.softeralab.com/our-contacts/) · support@softeralab.com |
 | Instagram | [instagram.com/softeralab](https://www.instagram.com/softeralab/) |
-| YouTube | [youtube.com/@SofteraLab](https://www.youtube.com/@SofteraLab) |
+| YouTube channel | [youtube.com/@SofteraLab](https://www.youtube.com/@SofteraLab) |
+| Demo video | [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k) |
 
 ## Copyright
 

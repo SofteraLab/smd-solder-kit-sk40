@@ -13,7 +13,7 @@ SMD Solder Kit — навчальна плата Softera Lab. Вона вчит�
 
 Мікроконтролера на платі немає і прошивати нічого. Такт дає таймер 555 на місці U1. Дві мікросхеми 4017 на місцях U2 і U3 по черзі вмикають світлодіоди.
 
-![Як працює SMD Solder Kit](./assets/images/how-it-works.jpg)
+![Як працює SMD Solder Kit](./assets/images/uk/how-it-works.jpg)
 
 ## Характеристики
 
@@ -55,7 +55,7 @@ flowchart LR
 
 ## Секції пайки
 
-![Порядок і позначення секцій](./assets/images/assembly-order.jpg)
+![Порядок і позначення секцій](./assets/images/uk/assembly-order.jpg)
 
 | Секція | Позначення | Корпус | Коли паяти |
 | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ flowchart LR
 
 ## Бік із довідником корпусів
 
-![Огляд плати](./assets/images/board-overview.jpg)
+![Огляд плати](./assets/images/uk/board-overview.jpg)
 
 | Зона | Що на шовкографії | Навіщо |
 | --- | --- | --- |
@@ -91,7 +91,7 @@ flowchart LR
 
 ## Комплектація
 
-![Що всередині набору](./assets/images/kit-contents.jpg)
+![Що всередині набору](./assets/images/uk/kit-contents.jpg)
 
 | № | Позиція |
 | --- | --- |

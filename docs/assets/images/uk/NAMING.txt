@@ -1,0 +1,14 @@
+Сталі імена зображень SMD Solder Kit.
+Нову версію картки записують поверх файлу. Посилання в Markdown не змінюють.
+
+logo.png                 знак Softera Lab
+banner.jpg               фото зібраного набору
+how-it-works.jpg         живлення, U1–U3, секції, перевірка LED
+board-overview.jpg       таблиця корпусів, SOT, Speed, контакти + і −
+kit-contents.jpg         склад коробки
+tools.jpg                інструменти
+assembly-order.jpg       вісім кроків монтажу
+soldering-0603-0805.jpg  техніка корпусів 0805 і 0603
+
+З кореня репозиторію: docs/assets/images/<ім'я>
+Зі сторінок docs: ./assets/images/<ім'я>

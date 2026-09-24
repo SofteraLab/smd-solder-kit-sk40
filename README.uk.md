@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.softeralab.com/">
-    <img src="docs/assets/images/logo.png" alt="Softera Lab" width="96">
+    <img src="docs/assets/images/uk/logo.png" alt="Softera Lab" width="96">
   </a>
 </p>
 
@@ -11,14 +11,14 @@
 <p align="center">
   <a href="README.md"><img alt="EN" src="https://img.shields.io/badge/EN-README.md-F97316?style=flat-square"></a>
   <a href="https://www.softeralab.com/"><img alt="Сайт" src="https://img.shields.io/badge/softeralab.com-09090B?style=flat-square&labelColor=18181B"></a>
-  <a href="https://www.softeralab.com/course-basic-soldering/"><img alt="Курс пайки" src="https://img.shields.io/badge/Курс%20пайки-09090B?style=flat-square&labelColor=18181B"></a>
+  <a href="https://www.instagram.com/softeralab/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-09090B?style=flat-square&labelColor=18181B"></a>
+  <a href="https://www.youtube.com/@SofteraLab"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-09090B?style=flat-square&labelColor=18181B"></a>
   <img alt="USB Type-C 5V" src="https://img.shields.io/badge/USB--C-5V-09090B?style=flat-square&labelColor=F97316">
-  <img alt="0603 0805 1206" src="https://img.shields.io/badge/0603%20·%200805%20·%201206-09090B?style=flat-square&labelColor=18181B">
 </p>
 
 <p align="center"><strong>Мови:</strong> <a href="README.md">English</a> · Українська (ця сторінка)</p>
 
-![SMD Solder Kit](docs/assets/images/banner.jpg)
+![SMD Solder Kit](docs/assets/images/uk/banner.jpg)
 
 Набір Softera Lab для тренування пайки SMD. Ця сторінка — опис і інструкція для тих, кому цікаво купити набір або пройти [курс пайки](https://www.softeralab.com/course-basic-soldering/).
 
@@ -28,7 +28,7 @@
 
 ## Як працює
 
-[![Демо SMD Solder Kit SK-40](docs/assets/images/banner.jpg)](https://www.youtube.com/shorts/_bBBfhrwp9k)
+[![Демо SMD Solder Kit SK-40](docs/assets/images/uk/banner.jpg)](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
 Відео: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
@@ -42,7 +42,7 @@
 
 Покроковий монтаж: [`docs/`](docs/).
 
-![Як працює набір](docs/assets/images/how-it-works.jpg)
+![Як працює набір](docs/assets/images/uk/how-it-works.jpg)
 
 ## Характеристики
 
@@ -57,11 +57,11 @@
 | Reference side | Metric/Inch, SOT-23 / 25 / 26 / 89, Speed |
 | Check | Підключити USB і подивитись на LED |
 
-![Огляд плати](docs/assets/images/board-overview.jpg)
+![Огляд плати](docs/assets/images/uk/board-overview.jpg)
 
 ## Що в коробці
 
-![Комплектація](docs/assets/images/kit-contents.jpg)
+![Комплектація](docs/assets/images/uk/kit-contents.jpg)
 
 1. Плата SMD Solder Kit
 2. Резистори 0603, 0805, 1206
@@ -84,7 +84,7 @@
 7. U2 і U3 — 4017, SOIC-16
 8. Підключи USB і перевір LED
 
-![Порядок збірки](docs/assets/images/assembly-order.jpg)
+![Порядок збірки](docs/assets/images/uk/assembly-order.jpg)
 
 ## Посилання
 
@@ -96,9 +96,11 @@
 | Техніка пайки | [docs/03-soldering.md](docs/03-soldering.md) |
 | Якщо LED не світиться | [docs/04-troubleshooting.md](docs/04-troubleshooting.md) |
 | Купити / курс | [Курс пайки](https://www.softeralab.com/course-basic-soldering/) |
+| Сайт | [softeralab.com](https://www.softeralab.com/) |
 | Контакти | [Контакти](https://www.softeralab.com/our-contacts/) · support@softeralab.com |
 | Instagram | [instagram.com/softeralab](https://www.instagram.com/softeralab/) |
-| YouTube | [youtube.com/@SofteraLab](https://www.youtube.com/@SofteraLab) |
+| YouTube канал | [youtube.com/@SofteraLab](https://www.youtube.com/@SofteraLab) |
+| Демо | [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k) |
 
 ## Авторське право
 
