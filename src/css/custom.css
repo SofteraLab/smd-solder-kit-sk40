@@ -1,0 +1,110 @@
+/**
+ * Візуальна тема мануалу Softera Lab.
+ * Збігається з https://www.softeralab.com/: фон #09090b, текст #fafafa,
+ * акцент #f97316, шрифт Inter, кнопки-пігулки.
+ * Docusaurus classic підхоплює цей файл автоматично.
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+:root,
+[data-theme="dark"] {
+  --ifm-color-primary: #f97316;
+  --ifm-color-primary-dark: #f86503;
+  --ifm-color-primary-darker: #ea5e03;
+  --ifm-color-primary-darkest: #c14e02;
+  --ifm-color-primary-light: #fa8329;
+  --ifm-color-primary-lighter: #fa8c39;
+  --ifm-color-primary-lightest: #fba866;
+  --ifm-background-color: #09090b;
+  --ifm-background-surface-color: #111113;
+  --ifm-navbar-background-color: #09090b;
+  --ifm-footer-background-color: #09090b;
+  --ifm-card-background-color: #111113;
+  --ifm-font-color-base: #fafafa;
+  --ifm-heading-color: #fafafa;
+  --ifm-font-family-base: Inter, sans-serif;
+  --ifm-heading-font-family: Inter, sans-serif;
+  --ifm-font-family-monospace: "SFMono-Regular", Consolas, monospace;
+  --ifm-heading-font-weight: 600;
+  --ifm-global-radius: 16px;
+  --ifm-button-border-radius: 100px;
+  --ifm-code-background: #18181b;
+  --ifm-toc-border-color: rgba(255, 255, 255, 0.08);
+  --ifm-hr-background-color: rgba(255, 255, 255, 0.08);
+  --ifm-color-emphasis-300: #a1a1aa;
+  --docusaurus-highlighted-code-line-bg: rgba(249, 115, 22, 0.16);
+  --ifm-menu-color: #fafafa;
+  --ifm-menu-color-active: #f97316;
+  --ifm-navbar-link-color: #fafafa;
+  --ifm-navbar-link-hover-color: #f97316;
+  --ifm-link-color: #f97316;
+  --ifm-link-hover-color: #fdba74;
+}
+
+html,
+body {
+  background: #09090b;
+}
+
+.navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: none;
+}
+
+.footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.button {
+  border-radius: 100px;
+  font-weight: 600;
+}
+
+.button--primary {
+  color: #ffffff;
+}
+
+.button--secondary {
+  color: #fafafa;
+  border-color: rgba(255, 255, 255, 0.28);
+  background: transparent;
+}
+
+.button--secondary:hover {
+  border-color: #f97316;
+  color: #f97316;
+  background: transparent;
+}
+
+.brand-kicker {
+  color: #f97316;
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 0.35rem;
+}
+
+article table {
+  display: table;
+  width: 100%;
+}
+
+article thead tr {
+  border-bottom: 2px solid #f97316;
+}
+
+.alert {
+  border-radius: 16px;
+}
+
+.alert--info {
+  --ifm-alert-background-color: rgba(249, 115, 22, 0.12);
+  --ifm-alert-border-color: #f97316;
+  --ifm-alert-foreground-color: #fafafa;
+}
+
+.alert--note {
+  --ifm-alert-background-color: #18181b;
+  --ifm-alert-border-color: rgba(255, 255, 255, 0.16);
+  --ifm-alert-foreground-color: #fafafa;
+}

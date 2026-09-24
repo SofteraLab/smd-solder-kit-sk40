@@ -1,0 +1,11 @@
+Ця тека готова до Upload files на GitHub.
+
+1. Створіть репозиторій SofteraLab / smd-solder-kit-sk40 (Public, без license).
+2. Add file → Upload files.
+3. Відкрийте цю папку і перетягніть УВЕСЬ вміст всередині
+   (README.md, COPYRIGHT.md, docs, firmware, hardware, src),
+   а не саму зовнішню папку smd-solder-kit-sk40.
+4. Commit changes.
+
+Не додавайте сюди Gerber / KiCad.
+org-profile сюди не входить — він для титулу організації.
