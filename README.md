@@ -30,7 +30,7 @@ This is **not an open-source hardware project**. Schematics source, Gerbers, and
 
 ## How it works
 
-Ready to work KIT: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
+Video of ready to work KIT: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
 ## About the kit
 
