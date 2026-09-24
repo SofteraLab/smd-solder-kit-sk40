@@ -96,8 +96,9 @@
 | Техніка пайки | [docs/03-soldering.md](docs/03-soldering.md) |
 | Якщо LED не світиться | [docs/04-troubleshooting.md](docs/04-troubleshooting.md) |
 | Купити / курс | [Курс пайки](https://www.softeralab.com/course-basic-soldering/) |
-| Контакти | [Контакти](https://www.softeralab.com/our-contacts/) · support@softeralab.com · +38 (096) 22-67-529 |
-| Демо | [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k) |
+| Контакти | [Контакти](https://www.softeralab.com/our-contacts/) · support@softeralab.com |
+| Instagram | [instagram.com/softeralab](https://www.instagram.com/softeralab/) |
+| YouTube | [youtube.com/@SofteraLab](https://www.youtube.com/@SofteraLab) |
 
 ## Авторське право
 
