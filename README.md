@@ -30,13 +30,7 @@ This is **not an open-source hardware project**. Schematics source, Gerbers, and
 
 ## How it works
 
-<p align="center">
-  <a href="https://www.youtube.com/shorts/_bBBfhrwp9k">
-    <img src="docs/assets/images/en/banner.png" alt="SMD Solder Kit SK-40 demo" width="720">
-  </a>
-</p>
-
-Demo: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
+Ready to work KIT: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
 ## About the kit
 
