@@ -30,7 +30,13 @@ This is **not an open-source hardware project**. Schematics source, Gerbers, and
 
 ## How it works
 
-Video of ready to work KIT: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
+<p align="center">
+  <a href="https://www.youtube.com/shorts/_bBBfhrwp9k">
+    <img src="docs/assets/images/en/banner.png" alt="SMD Solder Kit SK-40 demo" width="720">
+  </a>
+</p>
+
+Demo: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
 ## About the kit
 
@@ -40,7 +46,7 @@ There is **no microcontroller**. Timing comes from a **555** timer (U1, SOIC-8).
 
 The other side of the board is a package reference: Metric/Inch sizes, SOT footprints, and a Speed section.
 
-Step-by-step assembly lives in [`docs/`](docs/) (Ukrainian guide for the course).
+Step-by-step assembly lives in [`docs/en/`](docs/en/).
 
 <p align="center">
   <img src="docs/assets/images/en/how-it-works.png" alt="How the kit works" width="720">
@@ -79,7 +85,7 @@ Step-by-step assembly lives in [`docs/`](docs/) (Ukrainian guide for the course)
 
 ## Assembly (short)
 
-Full order and tools: [getting started](docs/02-getting-started.md).
+Full order and tools: [getting started](docs/en/02-getting-started.md).
 
 1. Solder USB Type-C
 2. 1206 section: resistors R11–R15 + LED
@@ -99,10 +105,10 @@ Full order and tools: [getting started](docs/02-getting-started.md).
 | Item | Where |
 | --- | --- |
 | Ukrainian README | [README.uk.md](README.uk.md) |
-| Board overview | [docs/01-hardware-overview.md](docs/01-hardware-overview.md) |
-| Tools & assembly | [docs/02-getting-started.md](docs/02-getting-started.md) |
-| Soldering technique | [docs/03-soldering.md](docs/03-soldering.md) |
-| Troubleshooting | [docs/04-troubleshooting.md](docs/04-troubleshooting.md) |
+| Board overview | [docs/en/01-hardware-overview.md](docs/en/01-hardware-overview.md) |
+| Tools & assembly | [docs/en/02-getting-started.md](docs/en/02-getting-started.md) |
+| Soldering technique | [docs/en/03-soldering.md](docs/en/03-soldering.md) |
+| Troubleshooting | [docs/en/04-troubleshooting.md](docs/en/04-troubleshooting.md) |
 | Buy / course | [Soldering course](https://www.softeralab.com/course-basic-soldering/) |
 | Website | [softeralab.com](https://www.softeralab.com/) |
 | Contact | [Contacts](https://www.softeralab.com/our-contacts/) · support@softeralab.com |
