@@ -94,8 +94,9 @@ Full order and tools: [getting started](docs/02-getting-started.md).
 | Soldering technique | [docs/03-soldering.md](docs/03-soldering.md) |
 | Troubleshooting | [docs/04-troubleshooting.md](docs/04-troubleshooting.md) |
 | Buy / course | [Soldering course](https://www.softeralab.com/course-basic-soldering/) |
-| Contact | [Contacts](https://www.softeralab.com/our-contacts/) · support@softeralab.com · +38 (096) 22-67-529 |
-| Demo video | [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k) |
+| Contact | [Contacts](https://www.softeralab.com/our-contacts/) · support@softeralab.com |
+| Instagram | [instagram.com/softeralab](https://www.instagram.com/softeralab/) |
+| YouTube | [youtube.com/@SofteraLab](https://www.youtube.com/@SofteraLab) |
 
 ## Copyright
 
