@@ -45,7 +45,7 @@
 | Input | USB Type-C, 5 V |
 | Indicators | LED секції світиться, якщо пайка цієї секції правильна |
 | LED sections | 1206 (R11–R15), 0805 (R6–R10), 0603 (R1–R5) |
-| Logic | Таймер 555 (U1, SOIC-8) і дві 4017 (U2, U3, SOIC-16). Мікроконтролера немає |
+| Logic | Таймер 555 (U1, SOIC-8) і дві 4017 (U2, U3, SOIC-16) |
 | Support parts | C1–C3, R18 |
 | Reference side | Таблиця Metric/Inch, SOT-23 / SOT-25 / SOT-26 / SOT-89, секція Speed |
 | Check | Підключити USB і подивитись на LED |
