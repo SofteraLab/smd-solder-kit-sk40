@@ -86,8 +86,8 @@
 | Купити / записатись | [Курс пайки](https://www.softeralab.com/course-basic-soldering/) · [Контакти](https://www.softeralab.com/our-contacts/) |
 | Сайт | [softeralab.com](https://www.softeralab.com/) |
 | Контакти | [сторінка контактів](https://www.softeralab.com/our-contacts/) · softeralab@gmail.com · +38 (096) 22-67-529 |
-| Instagram | [група Softera Lab](https://www.instagram.com/softeralab/) |
-| YouTube | [група Softera Lab](https://www.youtube.com/@SofteraLab) |
+| Instagram | [Сторінка Softera Lab](https://www.instagram.com/softeralab/) |
+| YouTube | [Канал Softera Lab](https://www.youtube.com/@SofteraLab) |
 | GitHub | [github.com/SofteraLab](https://github.com/SofteraLab) |
 
 ## Copyright
