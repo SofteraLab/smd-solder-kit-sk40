@@ -30,13 +30,7 @@
 
 ## Як працює
 
-<p align="center">
-  <a href="https://www.youtube.com/shorts/_bBBfhrwp9k">
-    <img src="docs/assets/images/uk/banner.jpg" alt="Демо SMD Solder Kit SK-40" width="720">
-  </a>
-</p>
-
-Відео: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
+Відео як працює зібраний набір: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
 ## Про набір
 
