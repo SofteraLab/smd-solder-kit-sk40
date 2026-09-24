@@ -18,7 +18,9 @@
 
 <p align="center"><strong>Мови:</strong> <a href="README.md">English</a> · Українська (ця сторінка)</p>
 
-![SMD Solder Kit](docs/assets/images/uk/banner.jpg)
+<p align="center">
+  <img src="docs/assets/images/uk/banner.jpg" alt="SMD Solder Kit" width="720">
+</p>
 
 Набір Softera Lab для тренування пайки SMD. Ця сторінка — опис і інструкція для тих, кому цікаво купити набір або пройти [курс пайки](https://www.softeralab.com/course-basic-soldering/).
 
@@ -28,7 +30,11 @@
 
 ## Як працює
 
-[![Демо SMD Solder Kit SK-40](docs/assets/images/uk/banner.jpg)](https://www.youtube.com/shorts/_bBBfhrwp9k)
+<p align="center">
+  <a href="https://www.youtube.com/shorts/_bBBfhrwp9k">
+    <img src="docs/assets/images/uk/banner.jpg" alt="Демо SMD Solder Kit SK-40" width="720">
+  </a>
+</p>
 
 Відео: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
@@ -42,7 +48,9 @@
 
 Покроковий монтаж: [`docs/`](docs/).
 
-![Як працює набір](docs/assets/images/uk/how-it-works.jpg)
+<p align="center">
+  <img src="docs/assets/images/uk/how-it-works.jpg" alt="Як працює набір" width="720">
+</p>
 
 ## Характеристики
 
@@ -57,11 +65,15 @@
 | Reference side | Metric/Inch, SOT-23 / 25 / 26 / 89, Speed |
 | Check | Підключити USB і подивитись на LED |
 
-![Огляд плати](docs/assets/images/uk/board-overview.jpg)
+<p align="center">
+  <img src="docs/assets/images/uk/board-overview.jpg" alt="Огляд плати" width="720">
+</p>
 
 ## Що в коробці
 
-![Комплектація](docs/assets/images/uk/kit-contents.jpg)
+<p align="center">
+  <img src="docs/assets/images/uk/kit-contents.jpg" alt="Комплектація" width="720">
+</p>
 
 1. Плата SMD Solder Kit
 2. Резистори 0603, 0805, 1206
@@ -84,7 +96,9 @@
 7. U2 і U3 — 4017, SOIC-16
 8. Підключи USB і перевір LED
 
-![Порядок збірки](docs/assets/images/uk/assembly-order.jpg)
+<p align="center">
+  <img src="docs/assets/images/uk/assembly-order.jpg" alt="Порядок збірки" width="720">
+</p>
 
 ## Посилання
 

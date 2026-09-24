@@ -18,7 +18,9 @@
 
 <p align="center"><strong>Languages:</strong> English (this page) · <a href="README.uk.md">Українська</a></p>
 
-![SMD Solder Kit](docs/assets/images/en/banner.png)
+<p align="center">
+  <img src="docs/assets/images/en/banner.png" alt="SMD Solder Kit" width="720">
+</p>
 
 Softera Lab kit for practicing SMD soldering. This repository is a **product page and assembly guide** for people who want to buy the kit or join the [soldering course](https://www.softeralab.com/course-basic-soldering/).
 
@@ -28,7 +30,11 @@ This is **not an open-source hardware project**. Schematics source, Gerbers, and
 
 ## How it works
 
-[![SMD Solder Kit SK-40 demo](docs/assets/images/en/banner.png)](https://www.youtube.com/shorts/_bBBfhrwp9k)
+<p align="center">
+  <a href="https://www.youtube.com/shorts/_bBBfhrwp9k">
+    <img src="docs/assets/images/en/banner.png" alt="SMD Solder Kit SK-40 demo" width="720">
+  </a>
+</p>
 
 Demo: [YouTube Short](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
@@ -42,7 +48,9 @@ The other side of the board is a package reference: Metric/Inch sizes, SOT footp
 
 Step-by-step assembly lives in [`docs/`](docs/) (Ukrainian guide for the course).
 
-![How the kit works](docs/assets/images/en/how-it-works.png)
+<p align="center">
+  <img src="docs/assets/images/en/how-it-works.png" alt="How the kit works" width="720">
+</p>
 
 ## Specifications
 
@@ -57,11 +65,15 @@ Step-by-step assembly lives in [`docs/`](docs/) (Ukrainian guide for the course)
 | Reference side | Metric/Inch table, SOT-23 / SOT-25 / SOT-26 / SOT-89, Speed section |
 | Check | Connect USB and watch the LEDs |
 
-![Board overview](docs/assets/images/en/board-overview.png)
+<p align="center">
+  <img src="docs/assets/images/en/board-overview.png" alt="Board overview" width="720">
+</p>
 
 ## What's in the box
 
-![Kit contents](docs/assets/images/en/kit-contents.png)
+<p align="center">
+  <img src="docs/assets/images/en/kit-contents.png" alt="Kit contents" width="720">
+</p>
 
 1. SMD Solder Kit board
 2. Resistors 0603, 0805, 1206
@@ -84,7 +96,9 @@ Full order and tools: [getting started](docs/02-getting-started.md).
 7. U2 and U3 — 4017, SOIC-16
 8. Connect USB and check LEDs
 
-![Assembly order](docs/assets/images/en/assembly-order.png)
+<p align="center">
+  <img src="docs/assets/images/en/assembly-order.png" alt="Assembly order" width="720">
+</p>
 
 ## Links
 
