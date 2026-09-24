@@ -75,11 +75,8 @@
 
 ![Порядок збірки](docs/assets/images/assembly-order.jpg)
 
-## How it works
+## Відео роботи зібраного девайсу
 
-Watch the assembled kit in action:
-
-[![SMD Solder Kit SK-40 demo](docs/assets/images/banner.jpg)](https://www.youtube.com/shorts/_bBBfhrwp9k)
 [YouTube Short: SMD soldering kit by Softera Lab](https://www.youtube.com/shorts/_bBBfhrwp9k)
 
 ## Посилання
